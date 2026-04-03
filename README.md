@@ -12,3 +12,7 @@ python version1.py
 ## Built with
 - Python 3
 - socket module
+
+## Versions
+- version1.py - basic sequential scanner
+- version2.py - threaded scanner with error handling
