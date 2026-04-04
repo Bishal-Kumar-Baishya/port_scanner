@@ -5,6 +5,7 @@ A basic TCP port scanner built with python
 ## How to run
 - python version1.py
 - python version2.py
+- python version3.py
 
 ## Enter target IP when prompted
 - Scans ports 1 to 1024
@@ -17,3 +18,4 @@ A basic TCP port scanner built with python
 ## Versions
 - version1.py - basic sequential scanner
 - version2.py - threaded scanner with error handling
+- version3.py - threaded scanner with banner grabbing (identifies services on open ports)
