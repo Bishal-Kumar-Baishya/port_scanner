@@ -1,6 +1,6 @@
 # Port scanner
 
-A basic TCP port scanner built with python
+A basic TCP port scanner built with python for network reconnaissance
 
 ## How to run
 - python version1.py
@@ -19,3 +19,6 @@ A basic TCP port scanner built with python
 - version1.py - basic sequential scanner
 - version2.py - threaded scanner with error handling
 - version3.py - threaded scanner with banner grabbing (identifies services on open ports)
+
+## Purpose
+Build as part of my cybersecurity learning journey to understand TCP connections and network reconnaissance
